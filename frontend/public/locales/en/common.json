@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Home",
+    "report": "Report Hazard",
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "login": "Login",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "landing": {
+    "title": "Integrated Ocean Hazard Reporting Platform",
+    "subtitle": "Indian National Centre for Ocean Information Services",
+    "description": "Report ocean hazards, monitor coastal threats, and stay informed about marine safety conditions along India's coastline.",
+    "reportButton": "Report Hazard",
+    "dashboardButton": "Official Dashboard",
+    "features": {
+      "realtime": "Real-time Monitoring",
+      "realtimeDesc": "24/7 surveillance of ocean conditions",
+      "community": "Community Reports",
+      "communityDesc": "Citizen-powered hazard detection",
+      "analytics": "Advanced Analytics",
+      "analyticsDesc": "AI-powered threat assessment"
+    }
+  },
+  "report": {
+    "title": "Report Ocean Hazard",
+    "hazardType": "Hazard Type",
+    "description": "Description",
+    "location": "Location",
+    "media": "Upload Photo/Video",
+    "submit": "Submit Report",
+    "success": "Report submitted successfully",
+    "offline": "Saved offline - will sync when connected"
+  },
+  "dashboard": {
+    "title": "Hazard Dashboard",
+    "filters": "Filters",
+    "stats": "Statistics",
+    "reports": "Reports",
+    "verified": "Verified",
+    "pending": "Pending"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "role": "Role",
+    "citizen": "Citizen",
+    "official": "Official"
+  }
+}
